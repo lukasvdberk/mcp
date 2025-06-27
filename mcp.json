@@ -11,6 +11,13 @@
         "mcp-remote",
         "https://mcp.atlassian.com/v1/sse"
       ]
+    },
+    "memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ]
     }
   }
 }
