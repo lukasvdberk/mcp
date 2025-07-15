@@ -7,6 +7,8 @@ Some MCP tools I use
   * Tools for managing different atlassian services (like Jira and Confluence)   
 * [memory](https://www.npmjs.com/package/@modelcontextprotocol/server-memory)
   * Memory server for saving context, don't forget to add the user rule for using the memory server, rule is
+* [context7-docs](https://github.com/upstash/context7)
+  * https://github.com/upstash/context7
 ```md
     Follow these steps for each interaction:
    1. User Identification:
